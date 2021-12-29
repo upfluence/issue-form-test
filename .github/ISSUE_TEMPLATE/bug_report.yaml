@@ -2,7 +2,6 @@ name: Bug Report
 description: Report a problem on the platform
 title: "[Bug]: "
 labels: ["kind/bug", "status/needs-triage"]
-assignees:
 body:
   - type: markdown
     attributes:
